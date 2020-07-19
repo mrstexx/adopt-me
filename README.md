@@ -9,4 +9,9 @@
 - etc...
 
 #### Intermediate React
-- ...
+- Emotions
+- Code splitting
+- Server side rendering
+- Typescript
+- Redux
+- Jest
